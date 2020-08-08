@@ -1,0 +1,16 @@
+{
+  "name": "coffee",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@lavalink/encoding": "^0.1.1",
+    "@melike2d/logger": "^1.0.4",
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "ws": "^7.3.1"
+  },
+  "devDependencies": {
+    "coffeescript": "^2.5.1"
+  }
+}
